@@ -1,1 +1,1 @@
-A minecraft space mod that utilizes local frames for simulating space, taking a similar approach to popular space games.
+A minecraft space mod that utilizes local frames for simulating space, taking a similar approach to popular space games, hoping to ensure best possible performance on the minecraft platform on rather high speeds
